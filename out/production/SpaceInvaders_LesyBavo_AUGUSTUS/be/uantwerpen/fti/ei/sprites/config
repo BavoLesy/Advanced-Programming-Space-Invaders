@@ -1,0 +1,79 @@
+screenWidth = 1455
+screenHeight = 810
+
+playerShipX = 680
+playerShipY = 625
+playerShipWidth = 80
+playerShipHeight = 80
+playerShipBegin = 0
+playerShipEnd = 1360
+
+enemyShipX = 0
+enemyShipY = 0
+enemyShipWidth = 60
+enemyShipHeight = 60
+
+playerBulletX = 0
+playerBulletY = 0
+playerBulletWidth = 16
+playerBulletHeight = 45
+
+enemyBulletX = 0
+enemyBulletY = 0
+enemyBulletWidth = 16
+enemyBulletHeight = 45
+bossBulletWidth = 16
+bossBulletHeight = 65
+
+bossShipX = 625
+bossShipY = 50
+bossShipWidth = 200
+bossShipHeight = 200
+
+
+specialBulletX = 0
+specialBulletY = 0
+specialBulletWidth = 75
+specialBulletHeight = 250
+
+bonusX = 0
+bonusY = 0
+bonusWidth = 60
+bonusHeight = 50
+
+lives = 15
+score = 0
+level = 1
+bossLevel = 4
+amount = 3
+lines = 2
+bossLives = 25
+
+explosionsX = 0
+explosionsY = 0
+explosionsWidth = 60
+explosionsHeight = 60
+
+shieldWidth = 100
+shieldHeight = 100
+
+bulletTimer = 35
+freezeBulletAmount = 2
+enemyBulletTimer = 150
+bonusMin = 250
+bonusMax = 600
+deBonusMin = 400
+deBonusMax = 800
+explosionsTimer = 15
+bonusMinX = 350
+bonusMaxX = 1000
+enemySpaceX = 140
+enemySpaceY = 110
+enemiesMoveUp = 40
+
+accuracyPoints = 500
+bonusPoints = 50
+livesPoints = 200
+timePoints = 1
+
+
